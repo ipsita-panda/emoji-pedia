@@ -7,4 +7,10 @@
   color: #fff;
   padding: 20px;
   text-align: center;
+  font-size: 40px;
+}
+.cardAllignment {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
 }
